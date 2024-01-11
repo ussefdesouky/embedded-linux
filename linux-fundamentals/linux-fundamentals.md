@@ -2,4 +2,4 @@
 
 ## Linux System Architecture
 
-![](/home/ussef/Documents/Embedded Linux-Linux Architecture.drawio.png)
+![](Embedded Linux-Linux Architecture.drawio.png)
