@@ -8,11 +8,11 @@
 $ top
 ```
 
-![top](/home/ussef/embedded-linux/linux-fundamentals/process-management/top.png)
+![top](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/process-management/top.png)
 
 - press 1 to list all the cores you have
 
-  ![cpu-cores](/home/ussef/embedded-linux/linux-fundamentals/process-management/cpu-cores.png)
+  ![cpu-cores](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/process-management/cpu-cores.png)
 
 2. Create number of cores + 2 processes `dd if=/dev/zero of=/dev/null` run in background.
 
@@ -28,7 +28,7 @@ $ sudo renice -n 20 $(jobs -p)
 
 4. Monitor them using top command
 
-![cpu-cores-increase](/home/ussef/embedded-linux/linux-fundamentals/process-management/cpu-cores-increase.png)
+![cpu-cores-increase](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/process-management/cpu-cores-increase.png)
 
 5. Kill them all using killall command.
 
