@@ -8,7 +8,7 @@
 
 ## 2. System Call Interface
 
-![alt_text](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/syscall-interface/Embedded%20Linux-Kernel%20Components.drawio.png)
+![alt_text](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/syscall-interface/syscall-interface.png)
 
 ### 2.1. LAB
 
@@ -73,7 +73,7 @@ $ top
 
 - press 1 to list all the cores you have
 
-  ![cpu-cores](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/process-management/cpu-cores.png)
+![cpu-cores](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/process-management/cpu-cores.png)
 
 #### 3.1.2. Create number of cores + 2 processes `dd if=/dev/zero of=/dev/null` run in background.
 
