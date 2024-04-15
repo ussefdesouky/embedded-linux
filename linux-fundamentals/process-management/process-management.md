@@ -12,7 +12,7 @@ $ top
 
 - press 1 to list all the cores you have
 
-  ![cpu-cores](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/process-management/cpu-cores.png)
+![cpu-cores](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/process-management/cpu-cores.png)
 
 2. Create number of cores + 2 processes `dd if=/dev/zero of=/dev/null` run in background.
 
