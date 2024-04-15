@@ -1,6 +1,6 @@
 # System Call Interface
 
-![alt_text](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/syscall-interface/Embedded%20Linux-Kernel%20Components.drawio.png)
+![alt_text](https://github.com/ussefdesouky/embedded-linux/blob/master/linux-fundamentals/syscall-interface/syscall-interface.png)
 
 ## LAB
 
